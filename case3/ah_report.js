@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 3
 
-   Author:  
-   Date:   
+   Author:  Isaiah Romo
+   Date:   2/4/20
    
    Filename: ah_report.js
    
